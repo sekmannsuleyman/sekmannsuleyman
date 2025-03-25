@@ -16,7 +16,7 @@
 
 - 💬 Ask me about mobile **Flutter**
 
-- 📫 How to reach me **ssekman42@gmail.com**
+- 📫 How to reach me **sekman2322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
